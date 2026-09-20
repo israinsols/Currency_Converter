@@ -1,6 +1,8 @@
-# currency_converter
+# Currency Converter 💱
 
-A new Flutter project.
+A Flutter-based currency converter app with real-time exchange rates for multiple currencies.
+Features a clean, intuitive UI for quick and accurate currency conversions worldwide.
+Built with Dart & Flutter — supports Android, iOS, Web, and Windows platforms.
 
 ## Getting Started
 
