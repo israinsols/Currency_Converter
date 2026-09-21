@@ -4,10 +4,14 @@ A beautiful, feature-rich **Flutter** currency converter app with real-time exch
 
 ---
 
-## 📱 Screenshots
-
-> Add your app screenshots here after taking them from a device or emulator.
-
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/ss1.jpeg" width="220"/>
+  <img src="screenshots/ss2.jpeg" width="220"/>
+</br>
+  <img src="screenshots/ss3.jpeg" width="220"/>
+  <img src="screenshots/ss4.jpeg" width="220"/>
+</p>
 ---
 
 ## ✨ Features
@@ -22,16 +26,6 @@ A beautiful, feature-rich **Flutter** currency converter app with real-time exch
 - 🔃 **Swap Button** – Instantly swap FROM and TO currencies
 - 🕐 **Last Updated Timestamp** – Know exactly when rates were last fetched
 - 📲 **Portrait Lock** – Optimized for portrait-mode usage
-
-## 📸 Screenshots
-<p align="center">
-  <img src="screenshots/ss1.jpeg" width="220"/>
-  <img src="screenshots/ss2.jpeg" width="220"/>
-</br>
-  <img src="screenshots/ss3.jpeg" width="220"/>
-  <img src="screenshots/ss4.jpeg" width="220"/>
-</p>
-
 
 ---
 
