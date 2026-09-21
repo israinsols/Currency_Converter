@@ -4,6 +4,15 @@ A Flutter-based currency converter app with real-time exchange rates for multipl
 Features a clean, intuitive UI for quick and accurate currency conversions worldwide.
 Built with Dart & Flutter — supports Android, iOS, Web, and Windows platforms.
 
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/ss1.jpeg" width="220"/>
+  <img src="screenshots/ss2.jpeg" width="220"/>
+</br>
+  <img src="screenshots/ss3.jpeg" width="220"/>
+  <img src="screenshots/ss4.jpeg" width="220"/>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
